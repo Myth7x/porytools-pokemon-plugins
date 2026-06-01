@@ -1,0 +1,9 @@
+{
+  "name": "Gen1 Edit Map",
+  "description": "Fully-featured Gen1 (pokered) map editor: tile-accurate canvas rendering via tileset/blockset graphics, interactive block painting, warp/NPC/sign event editing.",
+  "version": "1.0.0",
+  "author": "porytools",
+  "entry": "plugin.lua",
+  "command": "run",
+  "menu": "Gen 1"
+}
