@@ -1,0 +1,9 @@
+{
+  "name": "Edit Pokémon",
+  "description": "Beginner-friendly multi-file rewrite of the Edit Pokémon editor (pokered/pokecrystal).",
+  "version": "3.0.0",
+  "author": "porytools",
+  "entry": "plugin.lua",
+  "command": "run",
+  "menu": "Gen 1/2"
+}

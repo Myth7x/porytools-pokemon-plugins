@@ -1,0 +1,9 @@
+{
+  "name": "Edit Map",
+  "description": "Edit map headers, warps, NPCs, signs, connections, and scripts for pokered (Gen 1) and pokecrystal (Gen 2).",
+  "version": "1.0.0",
+  "author": "porytools",
+  "entry": "plugin.lua",
+  "command": "run",
+  "menu": "Gen 1/2"
+}

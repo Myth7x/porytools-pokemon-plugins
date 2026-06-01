@@ -1,0 +1,9 @@
+{
+  "name": "Canvas Demo",
+  "description": "Demonstrates the pt.canvas drawing API: shapes, text, images, pixel access and mouse events.",
+  "version": "1.0.0",
+  "author": "porytools",
+  "entry": "plugin.lua",
+  "command": "run",
+  "menu": "Demo"
+}
